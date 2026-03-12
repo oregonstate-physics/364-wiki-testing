@@ -1,13 +1,6 @@
 ---
-title: Contributions Guide
-date created: 12 March 2026, 3:15 pm
-date modified: 12 March 2026, 3:28 pm
----
-```
----
 tags: [guide]
 ---
-```
 
 ## Overview
 
