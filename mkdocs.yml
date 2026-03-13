@@ -9,7 +9,10 @@ theme:
 
 plugins:
   - search
-  - mkdocs-jupyter
+  - mkdocs-jupyter:
+      execute: true
+      kernel_name: python3
+
 
 nav:
   - Home: index.md
