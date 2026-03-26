@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://&lt;your-username&gt;.github.io/&lt;your-repo&gt;/</loc>
+         <lastmod>2026-03-26</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;your-username&gt;.github.io/&lt;your-repo&gt;/Contributions%20Guide/</loc>
+         <lastmod>2026-03-26</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;your-username&gt;.github.io/&lt;your-repo&gt;/contribute/</loc>
+         <lastmod>2026-03-26</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;your-username&gt;.github.io/&lt;your-repo&gt;/test_page/</loc>
+         <lastmod>2026-03-26</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;your-username&gt;.github.io/&lt;your-repo&gt;/notebooks/intro/</loc>
+         <lastmod>2026-03-26</lastmod>
+    </url>
+</urlset>
