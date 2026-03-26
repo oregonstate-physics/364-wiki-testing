@@ -18,3 +18,4 @@ nav:
   - Home: index.md
   - Contribute: contribute.md
   - Demo Notebook: notebooks/intro.ipynb
+  - Test Page: test_page.md
